@@ -1,5 +1,9 @@
-.idea
-node_modules
+.idea/
+.cache/
+node_modules/
+build/
+dist/
+
 *.sketch
 *.xd
 *.fig
