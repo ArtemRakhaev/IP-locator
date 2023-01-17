@@ -1,10 +1,10 @@
-.idea/
 .cache/
-node_modules/
+.DS_Store/
+.idea/
 build/
 dist/
+node_modules/
 
+*.fig
 *.sketch
 *.xd
-*.fig
-.DS_Store
