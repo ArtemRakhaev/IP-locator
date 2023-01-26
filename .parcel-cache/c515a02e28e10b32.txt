@@ -1,4 +1,4 @@
-4274
+4275
 60D:\JS\ip locator\IP-locator\node_modules\nth-check\README.md133184462693472399 0
 83D:\JS\ip locator\IP-locator\node_modules\htmlnano\docs\versioned_docs\version-2.0.0133184462699672397 1
 79D:\JS\ip locator\IP-locator\node_modules\cosmiconfig\dist\ExplorerSync.d.ts.map133184462694202412 0
@@ -7,7 +7,7 @@
 74D:\JS\ip locator\IP-locator\node_modules\caniuse-lite\data\features\let.js133184462712292394 0
 64D:\JS\ip locator\IP-locator\node_modules\terser\lib\sourcemap.js133184462698532402 0
 75D:\JS\ip locator\IP-locator\node_modules\type-fest\ts41\delimiter-case.d.ts133184462690782405 0
-32D:\JS\ip locator\IP-locator\dist133190599405775364 1
+32D:\JS\ip locator\IP-locator\dist133192316421336906 1
 79D:\JS\ip locator\IP-locator\node_modules\caniuse-lite\data\features\css-sel3.js133184462708522406 0
 34D:\JS\ip locator\IP-locator\images133184435203711935 1
 91D:\JS\ip locator\IP-locator\node_modules\dom-serializer\node_modules\entities\lib\encode.js133184462749182375 0
@@ -34,7 +34,7 @@
 61D:\JS\ip locator\IP-locator\node_modules\escape-string-regexp133184462688982416 1
 85D:\JS\ip locator\IP-locator\node_modules\caniuse-lite\data\features\css-namespaces.js133184462708052398 0
 93D:\JS\ip locator\IP-locator\node_modules\lmdb\node_modules\node-addon-api\tools\conversion.js133184462749552378 0
-35D:\JS\ip locator\IP-locator\helpers133190593516256181 1
+35D:\JS\ip locator\IP-locator\helpers133192315246810730 1
 92D:\JS\ip locator\IP-locator\node_modules\@babel\highlight\node_modules\has-flag\package.json133184462750822388 0
 59D:\JS\ip locator\IP-locator\node_modules\domelementtype\lib133184462692452398 1
 49D:\JS\ip locator\IP-locator\node_modules\entities133184462694532400 1
@@ -71,7 +71,7 @@
 85D:\JS\ip locator\IP-locator\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133184462704712400 0
 53D:\JS\ip locator\IP-locator\design\desktop-design.jpg133184435203711935 0
 70D:\JS\ip locator\IP-locator\node_modules\svgo\plugins\removeViewBox.js133184462698512398 0
-31D:\JS\ip locator\IP-locator\src133190599404757054 1
+31D:\JS\ip locator\IP-locator\src133192316221641479 1
 53D:\JS\ip locator\IP-locator\node_modules\mdn-data\api133184462692812400 1
 63D:\JS\ip locator\IP-locator\node_modules\commander\CHANGELOG.md133184462691932401 0
 82D:\JS\ip locator\IP-locator\node_modules\caniuse-lite\data\features\css-subgrid.js133184462708602395 0
@@ -85,7 +85,7 @@
 88D:\JS\ip locator\IP-locator\node_modules\caniuse-lite\data\features\deviceorientation.js133184462709232419 0
 60D:\JS\ip locator\IP-locator\node_modules\react-error-overlay133184462691632432 1
 58D:\JS\ip locator\IP-locator\node_modules\caniuse-lite\data133184462709842408 1
-40D:\JS\ip locator\IP-locator\src\index.js133190599404757054 0
+40D:\JS\ip locator\IP-locator\src\index.js133192316221632537 0
 62D:\JS\ip locator\IP-locator\node_modules\mdn-data\api\index.js133184462684992413 0
 72D:\JS\ip locator\IP-locator\node_modules\caniuse-lite\data\regions\SY.js133184462716922401 0
 48D:\JS\ip locator\IP-locator\node_modules\is-json133184462689482403 1
@@ -1363,7 +1363,7 @@
 70D:\JS\ip locator\IP-locator\node_modules\regenerator-runtime\README.md133184462684832407 0
 92D:\JS\ip locator\IP-locator\node_modules\@swc\helpers\src\_class_apply_descriptor_update.mjs133184462704092399 0
 90D:\JS\ip locator\IP-locator\node_modules\@parcel\source-map\parcel_sourcemap_node\build.rs133184462787133373 0
-54D:\JS\ip locator\IP-locator\dist\index.975ef6c8.js.map133190599405775364 0
+54D:\JS\ip locator\IP-locator\dist\index.975ef6c8.js.map133192316421336906 0
 62D:\JS\ip locator\IP-locator\node_modules\react-refresh\LICENSE133184462681642408 0
 71D:\JS\ip locator\IP-locator\node_modules\regenerator-runtime\runtime.js133184462683842414 0
 63D:\JS\ip locator\IP-locator\node_modules\callsites\package.json133184462690182405 0
@@ -1762,7 +1762,7 @@
 77D:\JS\ip locator\IP-locator\node_modules\lmdb\dependencies\lz4\lib\lz4frame.c133184462695152420 0
 75D:\JS\ip locator\IP-locator\node_modules\lmdb\dependencies\lz4\lib\xxhash.c133184462699742405 0
 88D:\JS\ip locator\IP-locator\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133184462704012396 0
-44D:\JS\ip locator\IP-locator\helpers\index.js133190593516246227 0
+44D:\JS\ip locator\IP-locator\helpers\index.js133192315246810730 0
 88D:\JS\ip locator\IP-locator\node_modules\htmlnano\lib\modules\sortAttributesWithLists.js133184462695572417 0
 96D:\JS\ip locator\IP-locator\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.sln133184462705872405 0
 68D:\JS\ip locator\IP-locator\node_modules\domelementtype\lib\index.js133184462689862413 0
@@ -1884,6 +1884,7 @@
 72D:\JS\ip locator\IP-locator\node_modules\caniuse-lite\data\regions\SZ.js133184462716962401 0
 69D:\JS\ip locator\IP-locator\node_modules\lightningcss\node\index.d.ts133184462693442416 0
 76D:\JS\ip locator\IP-locator\node_modules\htmlparser2\lib\WritableStream.d.ts133184462693682407 0
+48D:\JS\ip locator\IP-locator\helpers\getAdress.js133192314122548285 0
 69D:\JS\ip locator\IP-locator\node_modules\domutils\lib\manipulation.js133184462691212396 0
 72D:\JS\ip locator\IP-locator\node_modules\css-tree\lib\syntax\node\Url.js133184462705142396 0
 72D:\JS\ip locator\IP-locator\node_modules\lightningcss\node\index.js.flow133184462689262424 0
@@ -4268,7 +4269,7 @@
 55D:\JS\ip locator\IP-locator\dist\index.4d663569.css.map133190593518528594 0
 50D:\JS\ip locator\IP-locator\dist\index.579125c3.js133184463206992582 0
 54D:\JS\ip locator\IP-locator\dist\index.579125c3.js.map133184463207102585 0
-50D:\JS\ip locator\IP-locator\dist\index.975ef6c8.js133190599405725501 0
+50D:\JS\ip locator\IP-locator\dist\index.975ef6c8.js133192316421267141 0
 55D:\JS\ip locator\IP-locator\dist\IP-locator.3464ddca.js133184463206992582 0
 59D:\JS\ip locator\IP-locator\dist\IP-locator.3464ddca.js.map133184463207102585 0
 56D:\JS\ip locator\IP-locator\dist\pattern-bg.884cb380.png133190593518408994 0

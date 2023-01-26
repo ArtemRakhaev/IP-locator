@@ -1,5 +1,4 @@
-import {validateIp} from "../helpers";
-import {createPlacemark} from "../helpers";
+import {createPlacemark, getAdress, validateIp} from "../helpers";
 
 const  ipInput = document.querySelector('.search-bar__input');
 const btn = document.querySelector('.search-bar__btn');
@@ -14,8 +13,7 @@ ipInput.addEventListener('keydown', handleKey);
 
 function getData() {
     if (validateIp(ipInput.value)) {
-        fetch(`https://geo.ipify.org/api/v2/country,city?apiKey=at_9dPMrfMqVi7cvrxUowD4MGMpgapj5&ipAddress=${ipInput.value}`)
-            .then(response => response.json())
+        getAdress(ipInput.value)
             .then(setInfo)
     }
 }
