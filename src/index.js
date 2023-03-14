@@ -12,6 +12,7 @@ btn.addEventListener('click', getData);
 ipInput.addEventListener('keydown', handleKey);
 
 function getData() {
+	yandexMap.geoObjects.removeAll();
     if (validateIp(ipInput.value)) {
         getAdress(ipInput.value)
             .then(setInfo)
